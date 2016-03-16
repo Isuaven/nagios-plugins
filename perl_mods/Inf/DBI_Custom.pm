@@ -1,4 +1,4 @@
-# 
+#  DESCRIPTION: Perl submodule for DBI module. For simple interract with Oracle & MSSQL databases
 
 package Inf::DBI_Custom;
 
